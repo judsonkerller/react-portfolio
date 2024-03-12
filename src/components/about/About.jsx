@@ -27,11 +27,11 @@ const About = () => {
               <small>2+ Years work</small>
             </article>
 
-            <article className='about__card'>
+            {/* <article className='about__card'>
               <FiUsers className='about__icon'/>
               <h5>Clients</h5>
               <small>200+ worldwide</small>
-            </article>
+            </article> */}
 
             <article className='about__card'>
               <VscFolderLibrary className='about__icon'/>
@@ -41,7 +41,7 @@ const About = () => {
           </div>
 
           <p>
-          Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+          "Hello! I'm a passionate frontend developer, a beginner in UX design, turning zeros and ones into immersive web experiences. Inspired by minimalism and order, I create elegant designs and functional code. When I'm not coding, I'm spending time with my wife, admiring creation, or enjoying some good lo-fi music. Let's connect?"
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
