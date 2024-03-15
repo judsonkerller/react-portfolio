@@ -47,9 +47,7 @@ const Experience = () => {
                 <small className='text-light'>Intermediate</small>
               </div>
             </article>
-          </div>
-
-          
+          </div>          
         </div>
         <div className="experience__backend">
           <h3>Backend Development</h3>
