@@ -1,6 +1,6 @@
 {
-  "name": "react-portfolio",
-  "homepage": "https://react-portfolio-judsonkerller.vercel.app/",
+  "name": "portfolio",
+  "homepage": "https://portfolio-judsonkerller.vercel.app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
