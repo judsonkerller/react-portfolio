@@ -1,19 +1,21 @@
 {
-  "files": {
-    "main.css": "/static/css/main.9ce4b5b8.css",
-    "main.js": "/static/js/main.e44748da.js",
-    "static/media/me.png": "/static/media/me.80129737e0013d878685.png",
-    "static/media/portfolio2.jpg": "/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
-    "static/media/me-about.jpg": "/static/media/me-about.e34774d99bca85ef68a5.jpg",
-    "static/media/portfolio1.jpg": "/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
-    "static/media/portfolio3.jpg": "/static/media/portfolio3.cbab42559fe73e73906f.jpg",
-    "static/media/cv.pdf": "/static/media/cv.9b102470224d9ba92d4c.pdf",
-    "index.html": "/index.html",
-    "main.9ce4b5b8.css.map": "/static/css/main.9ce4b5b8.css.map",
-    "main.e44748da.js.map": "/static/js/main.e44748da.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.9ce4b5b8.css",
-    "static/js/main.e44748da.js"
-  ]
+  "main.css": "/static/css/main.60713704.chunk.css",
+  "main.js": "/static/js/main.e37ca7a2.chunk.js",
+  "main.js.map": "/static/js/main.e37ca7a2.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+  "static/css/2.1b0361c5.chunk.css": "/static/css/2.1b0361c5.chunk.css",
+  "static/js/2.9169d40e.chunk.js": "/static/js/2.9169d40e.chunk.js",
+  "static/js/2.9169d40e.chunk.js.map": "/static/js/2.9169d40e.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.820e514f745b12e86d412744b1285672.js": "/precache-manifest.820e514f745b12e86d412744b1285672.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/2.1b0361c5.chunk.css.map": "/static/css/2.1b0361c5.chunk.css.map",
+  "static/css/main.60713704.chunk.css.map": "/static/css/main.60713704.chunk.css.map",
+  "static/media/cv.pdf": "/static/media/cv.f83b8f52.pdf",
+  "static/media/event-platform.png": "/static/media/event-platform.edc8f1a8.png",
+  "static/media/groppa.png": "/static/media/groppa.cf45ab6c.png",
+  "static/media/me-about.jpg": "/static/media/me-about.6b9f572d.jpg",
+  "static/media/me.png": "/static/media/me.c825873e.png",
+  "static/media/plantmanager.png": "/static/media/plantmanager.8de31f6a.png"
 }
