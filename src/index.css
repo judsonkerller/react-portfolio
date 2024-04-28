@@ -12,8 +12,8 @@
 
 :root {
 	--color-bg: #191919;
-	--color-bg-variant: #750e21;
-	--color-primary: #e3651d;
+	--color-bg-variant: #29214f;
+	--color-primary: #6a58fe;
 	--color-primary-variant: rgba(227, 101, 29, 0.4);
 	--color-white: #fff;
 	--color-light: rgba(255, 255, 255, 0.6);
@@ -57,7 +57,7 @@ h5 {
 }
 
 h1 {
-	font-size: 2.5rem;
+	font-size: 2rem;
 }
 
 section {
